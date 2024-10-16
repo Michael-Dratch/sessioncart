@@ -7,7 +7,7 @@ A simple JavaScript object for managing a shopping cart stored in session storag
 You can install the package via npm:
 
 ```bash
-npm install @michaeldratch/sessioncart
+npm install sessioncart
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install @michaeldratch/sessioncart
 To use the SessionCart, import it into your JavaScript file:
 
 ```javascript
-import SessionCart from "your-package-name";
+import SessionCart from "sessioncart";
 ```
 
 ## API Reference
@@ -63,7 +63,7 @@ Clears all items from the cart.
 
 ## Contributing
 
-Contributions are welcome! Here is a link to the the Github repository:
+Contributions are welcome! Here is a link to the the Github repository: [sessioncart](https://github.com/Michael-Dratch/sessioncart)
 
 ## License
 
