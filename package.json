@@ -1,0 +1,11 @@
+{
+  "name": "sessioncart",
+  "version": "1.0.0",
+  "description": "Provides a SessionCart object which handles the management of shopping cart data in session storage.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Dratch",
+  "license": "ISC"
+}
